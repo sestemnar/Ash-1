@@ -1,4 +1,4 @@
-﻿token= هنا حق التوكين حق بوتك
+token= NTQ1OTM2MzM1NjYwMTIyMTIy.D2155w.VMRMUz8xLgW2_yh6IwhRORT8Ppo
 owner= 428097407973064705
 prefix= 1
 game= 1play
