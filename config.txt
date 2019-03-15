@@ -1,0 +1,6 @@
+﻿token= هنا حق التوكين حق بوتك
+owner= 428097407973064705
+prefix= 1
+game= 1play
+stayinchannel=true
+songinstatus=true
